@@ -1,2 +1,2 @@
 # DL-ScoreFollowing
-Python Project at TU Berlin
+This project was done during my exchange at the TU Berlin. The goal was to be able to find was to follow the score: finding correspondances between what was being played and a reference recording of the music.
